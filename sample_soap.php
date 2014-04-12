@@ -1,5 +1,8 @@
 <?php
-function getCatalogEntry($catalogId,$catalogId2) { 
+function getCatalogEntry($catalogId,$catalogId2) {
+		
+	echo "bye bye";
+	 
 if($catalogId=='catalog1')
  
 return "<HTML>
