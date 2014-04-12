@@ -1,5 +1,10 @@
 <?php
-function getCatalogEntry($catalogId,$catalogId2) { 
+function getCatalogEntry($catalogId,$catalogId2) {
+		
+		
+	echo "hai";
+	
+	 
 if($catalogId=='catalog1')
  
 return "<HTML>
