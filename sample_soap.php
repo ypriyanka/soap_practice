@@ -1,7 +1,7 @@
 <?php
 function getCatalogEntry($catalogId,$catalogId2) {
 		
-	echo "bye bye";
+	echo "hai jyotsna";
 	 
 if($catalogId=='catalog1')
  
